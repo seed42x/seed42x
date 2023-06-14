@@ -77,4 +77,5 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/
     <img alt="MicrosoftBing" src="https://img.shields.io/badge/Microsoft Bing-blue?style=flat-square&logo=microsoftbing&logoColor=white" />
     <img alt="Google" src="https://img.shields.io/badge/Google-red?style=flat-square&logo=google&logoColor=white" />
     <img alt="Google colab" src="https://img.shields.io/badge/Google Colab-orange?style=flat-square&logo=googlecolab&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
