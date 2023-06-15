@@ -60,9 +60,11 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawx2&theme=dark" style="height: 150px" />
 </p>
 
+<!--
 <p align="center">
     <img alt="pawx2's GitHub Activity for recent 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=pawx2&theme=react-dark" style="height: 250px" />
 </p>
+-->
 
 <h2>Tools I work with</h2>
 <p>
