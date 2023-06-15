@@ -1,27 +1,24 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/> Hey! Nice to see you.</h1>
 
 <div style="display: flex; flex-direction: row;">
-<p>
+<div>
     Welcome to my page!</br>
     I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/icons2/107/PNG/512/china_18230.png" width="16px">. 
     <h2>Where you can find me also</h2>
-    <p>
-    <a href="https://github.com/pawx2/">
-        <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" />
-    </a>
-    <a href="https://leetcode.cn/u/seed42/">
-        <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://pawx2.github.io">
-        <img alt="pawx2's studio" src="https://img.shields.io/badge/Github Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
-    </a>
-</p>
-</p>
+    <div>
+        <a href="https://github.com/pawx2/">
+            <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <a href="https://leetcode.cn/u/seed42/">
+            <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white" />
+        </a>
+        <a href="https://pawx2.github.io">
+            <img alt="pawx2's studio" src="https://img.shields.io/badge/Github Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
+        </a>
+    </div>
+</div>
 <img align="right" alt="GIF" src="res/code.gif" width="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;
 </div>
-
-
-
 
 <h2>Things I code with</h2>
 <p>
