@@ -11,7 +11,7 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/
         <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://leetcode.cn/u/seed42/">
-        <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white" />
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" />
     </a>
     <a href="https://pawx2.github.io">
         <img alt="pawx2's studio" src="https://img.shields.io/badge/GitHub Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
