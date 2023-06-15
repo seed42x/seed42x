@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/> Hey! Nice to see you.</h1>
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
 <p>
     Welcome to my page!</br>
     I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/icons2/107/PNG/512/china_18230.png" width="16px">. 
