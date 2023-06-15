@@ -8,13 +8,13 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.icon-icons.com/
 <h2>Where you can find me also</h2>
 <p>
     <a href="https://github.com/pawx2/">
-        <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" />
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://leetcode.cn/u/seed42/">
         <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=white" />
     </a>
     <a href="https://pawx2.github.io">
-        <img alt="pawx2's studio" src="https://img.shields.io/badge/Github Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
+        <img alt="pawx2's studio" src="https://img.shields.io/badge/GitHub Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
     </a>
 </p>
 
