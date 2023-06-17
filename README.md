@@ -2,7 +2,8 @@
 
 Welcome to my page!
 I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1e8-1f1f3.svg" width="16px">.
-<img align="right" alt="GIF" src="res/code.gif" width="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;
+
+<img align="right" alt="GIF" src="https://img1.imgtp.com/2023/06/17/EPmwfiPv.gif" width="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;
 
 <h2>Where you can find me also</h2>
 <p>
