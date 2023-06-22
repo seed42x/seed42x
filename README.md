@@ -28,6 +28,8 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="OpenJDK" src="https://img.shields.io/badge/OpenJDK-blue?style=flat-square&logo=openjdk&logoColor=white" />
+    <img alt="ApacheHadoop" src="https://img.shields.io/badge/ApacheHadoop-yellow?style=flat-square&logo=apachehadoop&logoColor=white" />
 </p>
 
 <h2>Open Source Projects</h2>
