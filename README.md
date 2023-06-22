@@ -83,4 +83,6 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
     <img alt="Google colab" src="https://img.shields.io/badge/Google Colab-orange?style=flat-square&logo=googlecolab&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white" />
     <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-blue?style=flat-square&logo=openai&logoColor=white" />
+    <img alt="Keep a Changelog" src="https://img.shields.io/badge/Keep a Changelog-orange?style=flat-square&logo=Keepachangelog&logoColor=white" />
+    <img alt="Shields.io" src="https://img.shields.io/badge/Shields.io-green?style=flat-square&logo=shieldsdotio&logoColor=white" />
 </p>
