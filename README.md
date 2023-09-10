@@ -33,6 +33,7 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-blueviolet?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
+<!--
 <h2>Open Source Projects</h2>
 
 <table style="width: 100%">
@@ -55,6 +56,7 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
         </tr>
     </tbody>
 </table>
+-->
 
 <h2>My activity</h2>
 
