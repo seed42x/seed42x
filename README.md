@@ -13,7 +13,7 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
     <a href="https://leetcode.cn/u/seed42/">
         <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" />
     </a>
-    <a href="https://pawx2.github.io">
+    <a href="#">
         <img alt="pawx2's studio" src="https://img.shields.io/badge/GitHub Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
     </a>
 </p>
