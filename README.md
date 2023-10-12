@@ -1,20 +1,20 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page!
-I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1e8-1f1f3.svg" width="16px">.
+I'm seed42x, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1e8-1f1f3.svg" width="16px">.
 
 <img align="right" alt="GIF" src="https://img1.imgtp.com/2023/06/17/EPmwfiPv.gif" width="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;
 
 <h2>Where you can find me also</h2>
 <p>
-    <a href="https://github.com/pawx2/">
+    <a href="https://github.com/seed42x/">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://leetcode.cn/u/seed42/">
         <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" />
     </a>
     <a href="#">
-        <img alt="pawx2's studio" src="https://img.shields.io/badge/GitHub Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
+        <img alt="seed42x's studio" src="https://img.shields.io/badge/GitHub Pages-blueviolet?style=flat-square&logo=githubpages&logoColor=white" />
     </a>
 </p>
 
@@ -61,13 +61,13 @@ I'm pawx2, a developer from Nanjing, China <img src="https://cdn.jsdelivr.net/gh
 <h2>My activity</h2>
 
 <p align="center">
-    <img alt="pawx2's Github stats" src="https://github-readme-stats.vercel.app/api?username=pawx2&theme=radical" style="height: 150px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawx2&theme=dark" style="height: 150px" />
+    <img alt="seed42x's Github stats" src="https://github-readme-stats.vercel.app/api?username=seed42x&theme=radical" style="height: 150px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seed42x&theme=dark" style="height: 150px" />
 </p>
 
 <!--
 <p align="center">
-    <img alt="pawx2's GitHub Activity for recent 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=pawx2&theme=react-dark" style="height: 250px" />
+    <img alt="seed42x's GitHub Activity for recent 30 days" src="https://github-readme-activity-graph.vercel.app/graph?username=seed42x&theme=react-dark" style="height: 250px" />
 </p>
 -->
 
